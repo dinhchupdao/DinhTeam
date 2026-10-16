@@ -13,6 +13,7 @@ desktop.ini
 node_modules/
 dist/
 build/
+.next/
 .cache/
 
 # Logs
